@@ -1,2 +1,2 @@
 config:
-  info: springcloud-config/master/application-test.yml version:1
+  info: springcloud-config/master/config-test.yml version:1
