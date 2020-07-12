@@ -1,1 +1,2 @@
-test config
+config:
+  info: springcloud-config/master/application-test.yml version:1
