@@ -1,1 +1,2 @@
-prod config
+config:
+  info: springcloud-config/master/application-prod.yml version:1
